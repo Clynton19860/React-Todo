@@ -10,7 +10,7 @@ export default function Form({ todos, setTodos }) {
     <form onSubmit={handleSubmit}>
       <input
         onChange={(e) => setTodo(e.target.value)}
-        Value={todo}
+        value={todo}
         type="text"
       />
       <button type="submit">Add</button>
