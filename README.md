@@ -1,6 +1,6 @@
 # About
 
-This was my first react/jsx app I have built, I follow a tutorial for this app.
+This was my first react/jsx app I have built, I followed a tutorial for this app.
 
 # React + Vite
 
